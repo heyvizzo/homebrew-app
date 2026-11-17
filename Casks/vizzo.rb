@@ -1,6 +1,6 @@
 cask "vizzo" do
-  version "0.2.1"
-  sha256 "c817134e166e7ff6425c774127c99fb40bdb3169d2b46b82683b33e846cc3812"
+  version "0.2.2"
+  sha256 "aac98f3145f9746ef63cb635e8c86f1911dd392783be5e0bc8e79a8e8966c636"
 
   url "https://github.com/heyvizzo/vizzo/releases/download/v#{version}/Vizzo-#{version}-arm64.dmg"
   name "Vizzo"
